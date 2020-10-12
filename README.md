@@ -7,3 +7,5 @@
   * Quick Sort
     * Quick Sort
     * Quick Sort with Partition
+  * Selection Sort
+  * Bubble Sort
