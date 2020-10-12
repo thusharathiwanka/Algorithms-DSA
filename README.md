@@ -1,8 +1,7 @@
-## Data Sturctures using Pyytthhoo
+## Algorithms using Python
   
-  * Stack
-  * Queue
-    * Linear Queue
-    * Circular Queue
-  * Linked List
-  * Tree
+  * Recursion
+    * Factorial
+    * Fibonacci
+  * Insertion Sort
+  * Quick Sort
