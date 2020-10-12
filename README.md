@@ -1,4 +1,4 @@
-## Algorithms using Python
+## 1. Algorithms using Python
   
   * Recursion
     * Factorial
