@@ -11,5 +11,4 @@ def insertionSort(array):
 
     return array
 
-
 print(insertionSort([4, 2, 1, 6, 3]))

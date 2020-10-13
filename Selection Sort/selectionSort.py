@@ -13,5 +13,4 @@ def selectionSort(array):
 
     return array
 
-
 print(selectionSort([4, 2, 1, 6, 3]))
