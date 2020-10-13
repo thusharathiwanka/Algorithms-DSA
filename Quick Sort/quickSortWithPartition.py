@@ -1,7 +1,6 @@
 array = [4, 2, 1, 6, 3]
-n = len(array)
 p = 0
-r = n - 1
+r = len(array) - 1
 
 
 def partition(array, p, r):
