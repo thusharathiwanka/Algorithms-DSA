@@ -1,7 +1,11 @@
 def fibonacci(n):
-    if n <= 2:
-        return 1
+    if n == 0:
+        return 0
     else:
-        return fibonacci(n - 1) + fibonacci(n - 2)
+        if n == 1:
+            return 1
+        else:
+            return fibonacci(n - 1) + fibonacci(n - 2)
 
-print(fibonacci(8))
+n = 8
+print(fibonacci(n - 1))
