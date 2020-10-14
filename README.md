@@ -3,6 +3,8 @@
 - Recursion
   - Factorial
   - Fibonacci
+  - Power
+  - Sum
 - Insertion Sort
 - Quick Sort
   - Quick Sort
